@@ -1,1 +1,1 @@
-Week2 demo project
+Git & Github for DevOps
